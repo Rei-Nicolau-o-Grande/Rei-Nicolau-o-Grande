@@ -35,5 +35,5 @@
 
  <p align="center"> 
    
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rei-Nicolau-o-Grande/Rei-Nicolau-o-Grande/blob/output/github-contribution-grid-snake.svg)
  </p>
