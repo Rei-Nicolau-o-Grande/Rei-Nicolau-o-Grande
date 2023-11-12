@@ -1,4 +1,4 @@
-# Olá, eu sou a Nicolas 
+# Olá, eu sou Nicolas 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=synthwave)
 
