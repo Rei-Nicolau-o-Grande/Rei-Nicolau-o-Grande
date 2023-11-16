@@ -1,4 +1,4 @@
-# Olá, eu sou Nicolas 
+# Olá, eu sou Rei Nicolau
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
@@ -45,9 +45,3 @@
 
 
 </div>
-
-
- <p align="center"> 
-   
-  ![Snake animation](https://github.com/Rei-Nicolau-o-Grande/Rei-Nicolau-o-Grande/blob/output/github-contribution-grid-snake.svg)
- </p>
