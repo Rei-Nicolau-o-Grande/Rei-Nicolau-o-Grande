@@ -1,6 +1,6 @@
 # Olá, eu sou Nicolas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ##
 
