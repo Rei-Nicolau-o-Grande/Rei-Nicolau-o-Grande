@@ -1,9 +1,14 @@
 # Olá, eu sou Nicolas 
+![](https://komarev.com/ghpvc/?username=Rei-Nicolau-o-Grande&color=blueviolet&label=Views)
 
-<div>
+<div align="start">
 <a href="https://github.com/Rei-Nicolau-o-Grande">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Nicolau-o-Grande&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rei-Nicolau-o-Grande&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
+<div align="start">
+<a href="https://github.com/Rei-Nicolau-o-Grande">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rei-Nicolau-o-Grande&layout=compact&hide_progress=true&langs_count=6&theme=radical&hide=html,css,blade"/>
 </div>
 
 ##
@@ -20,7 +25,7 @@
 
 ##
 
-### Skills
+### My Skills
 
 <div style="display: inline_block">
   <br>  
