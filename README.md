@@ -6,7 +6,7 @@
 # 
 ![](https://komarev.com/ghpvc/?username=Rei-Nicolau-o-Grande&color=blueviolet&label=Views)
 
-## Hi! I'm Nicolas a.k.a Jack Sparrow 🏴‍☠️  
+## Hi!, I'm Nicolas a.k.a Jack Sparrow 🏴‍☠️  
 
 <div> 
 
