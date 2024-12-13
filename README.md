@@ -1,5 +1,35 @@
-# Olá, eu sou Nicolas 
+<div align="start">
+  <a href="https://www.linkedin.com/in/rei-nicolau-de-rivia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</div>
+
+# 
 ![](https://komarev.com/ghpvc/?username=Rei-Nicolau-o-Grande&color=blueviolet&label=Views)
+
+## Hi! I'm Nicolas a.k.a Jack Sparrow 🏴‍☠️  
+
+<div> 
+
+💻 **Developer with experience in:**  
+- Building **web applications**  
+- Developing **robust APIs**  
+- Implementing **scalable backend systems**  
+
+📚 **My main stack:**  
+- **Java**, **PHP**, and **Python**  
+
+🌱 **Currently learning:**  
+- **Go**, **C**, **C++**, **Kafka**, and **Microservices**  
+
+> "Me, I’m dishonest. And a dishonest man you can always trust to be dishonest. Honestly. It’s the honest ones you want to watch out for. Because you can never predict when they’re going to do something incredibly… stupid." — Jack Sparrow  
+
+🌑 **I code at midnight, I'm not Batman.**  
+
+☕ **Let's build something amazing together!** 🚀  
+
+</div>
+
+##
 
 <div>
   <a href="[https://example.com](https://github.com/Rei-Nicolau-o-Grande)"></a>
@@ -14,56 +44,4 @@
 <div align="center" width="100%">
   <a href="[https://example.com](https://github.com/Rei-Nicolau-o-Grande)"></a>
   <img src="01.gif" height="500em"/>
-</div>
-
-##
-
-### Contact
-
-<div align="start">
-
-<a href = "mailto:nicolasmeireles1004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a href="https://www.linkedin.com/in/rei-nicolau-de-rivia/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-
-</div>
-
-##
-
-### My Skills
-
-<div style="display: inline_block">
-  <br>  
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-          
-          
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
-          
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-      
-  
-
-
 </div>
