@@ -23,7 +23,7 @@
 
 > "Me, I’m dishonest. And a dishonest man you can always trust to be dishonest. Honestly. It’s the honest ones you want to watch out for. Because you can never predict when they’re going to do something incredibly… stupid." — Jack Sparrow  
 
-🌑 **I code at midnight, I'm not Batman.**  
+🌑 **I code at midnight. I'm not Batman, nor a vampire 🦇 — just a developer fueled by late-night inspiration.**  
 
 ☕ **Let's build something amazing together!** 🚀  
 
