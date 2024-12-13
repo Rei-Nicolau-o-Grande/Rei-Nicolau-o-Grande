@@ -19,7 +19,7 @@
 - **Java**, **PHP**, and **Python**  
 
 🌱 **Currently learning:**  
-- **Go**, **C**, **C++**, **Kafka**, and **Microservices**  
+- **Go**, **C**, **C++**, **Kafka** and **Microservices**  
 
 > "Me, I’m dishonest. And a dishonest man you can always trust to be dishonest. Honestly. It’s the honest ones you want to watch out for. Because you can never predict when they’re going to do something incredibly… stupid." — Jack Sparrow  
 
